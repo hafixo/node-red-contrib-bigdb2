@@ -1,0 +1,64 @@
+{
+  "name": "node-red-contrib-db2",
+  "version": "0.0.3",
+  "description": "A Node-RED node to use a IBM DB2 database",
+  "dependencies": {
+    "ibm_db": "0.0.19",
+    "promise": "7.0.3"
+  },
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "node-red",
+    "db2",
+    "bigdb2"
+  ],
+  "author": {
+    "name": "Marc Fouqué"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mfou/node-red-contrib-db2",
+  "node-red": {
+    "nodes": {
+      "bigdb2": "bigdb2/bigdb2.js"
+    }
+  },
+  "optionalDependencies": {},
+  "scripts": {},
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "main": "bigdb2.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfou/node-red-contrib-db2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mfou/node-red-contrib-db2/issues"
+  },
+  "gitHead": "4fa8ed86fd9d02cfa2c3e3f63dca4b21fc9f6e77",
+  "_id": "node-red-contrib-db2@0.0.3",
+  "_shasum": "1ce34e9d9d8ba716493c0ee1069b3111c2d1ec19",
+  "_from": "node-red-contrib-db2@latest",
+  "_npmVersion": "3.8.0",
+  "_nodeVersion": "4.3.2",
+  "_npmUser": {
+    "name": "mfou",
+    "email": "marc.fouque@gmail.com"
+  },
+  "dist": {
+    "shasum": "1ce34e9d9d8ba716493c0ee1069b3111c2d1ec19",
+    "tarball": "https://registry.npmjs.org/node-red-contrib-db2/-/node-red-contrib-db2-0.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "mfou",
+      "email": "marc.fouque@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/node-red-contrib-db2-0.0.3.tgz_1462276152511_0.5272947801277041"
+  },
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-db2/-/node-red-contrib-db2-0.0.3.tgz"
+}
