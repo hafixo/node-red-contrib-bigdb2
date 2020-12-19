@@ -4,7 +4,7 @@
   "description": "A Node-RED node to use a IBM DB2 database",
   "dependencies": {
     "ibm_db": "0.0.19",
-    "promise": "7.0.3"
+    "promise": "7.3.1"
   },
   "devDependencies": {},
   "directories": {},
